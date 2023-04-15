@@ -2,8 +2,8 @@ const cheerio = require("cheerio");
 const axios = require("axios");
 
 const scrape = async (team, yearFrom, yearTo) => {
-  const axiosResponse = await axios.get({
-    // method: "GET",
+  const axiosResponse = await axios.request({
+    method: "GET",
     url: `https://templatetrove.com/Printable-${yearFrom}-${yearTo}-${team}-Schedule.htm`,
     headers: {
       "User-Agent":
