@@ -1,0 +1,578 @@
+{
+    "Arizona-Cardinals": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Arizona-Cardinals-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Arizona-Cardinals-Schedule-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Arizona-Cardinals-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Arizona-Cardinals-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Arizona-Cardinals-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Arizona-Cardinals-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Arizona-Cardinals-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Arizona-Cardinals-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Atlanta-Falcons": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Atlanta-Falcons-Schedule-PNG-New.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Atlanta-Falcons-Schedule-PDF-New.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Atlanta-Falcons-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Atlanta-Falcons-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Atlanta-Falcons-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Atlanta-Falcons-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Atlanta-Falcons-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Atlanta-Falcons-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Baltimore-Ravens": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Baltimore-Ravens-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Baltimore-Ravens-Schedule-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Baltimore-Ravens-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Baltimore-Ravens-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Baltimore-Ravens-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Baltimore-Ravens-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Baltimore-Ravens-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Baltimore-Ravens-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Buffalo-Bills": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Buffalo-Bills-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Buffalo-Bills-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Buffalo-Bills-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Buffalo-Bills-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Buffalo-Bills-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Buffalo-Bills-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Buffalo-Bills-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Buffalo-Bills-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Carolina-Panthers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Carolina-Panthers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Carolina-Panthers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Carolina-Panthers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Carolina-Panthers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Carolina-Panthers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Carolina-Panthers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Carolina-Panthers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Carolina-Panthers-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Chicago-Bears": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Chicago-Bears-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Chicago-Bears-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Chicago-Bears-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Chicago-Bears-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Chicago-Bears-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Chicago-Bears-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Chicago-Bears-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Chicago-Bears-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Cincinnati-Bengals": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cincinnati-Bengals-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cincinnati-Bengals-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cincinnati-Bengals-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cincinnati-Bengals-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cincinnati-Bengals-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cincinnati-Bengals-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cincinnati-Bengals-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cincinnati-Bengals-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Cleveland-Browns": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cleveland-Browns-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cleveland-Browns-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cleveland-Browns-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cleveland-Browns-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cleveland-Browns-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cleveland-Browns-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Cleveland-Browns-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Cleveland-Browns-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Dallas-Cowboys": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Dallas-Cowboys-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Dallas-Cowboys-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Dallas-Cowboys-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Dallas-Cowboys-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Dallas-Cowboys-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Dallas-Cowboys-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Dallas-Cowboys-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Dallas-Cowboys-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Denver-Broncos": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Denver-Broncos-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Denver-Broncos-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Denver-Broncos-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Denver-Broncos-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Denver-Broncos-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Denver-Broncos-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Denver-Broncos-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Denver-Broncos-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Detroit-Lions": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Detroit-Lions-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Detroit-Lions-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Detroit-Lions-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Detroit-Lions-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Detroit-Lions-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Detroit-Lions-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Detroit-Lions-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Detroit-Lions-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Green-Bay-Packers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Green-Bay-Packers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Green-Bay-Packers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Green-Bay-Packers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Green-Bay-Packers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Green-Bay-Packers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Green-Bay-Packers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Green-Bay-Packers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Green-Bay-Packers-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Houston-Texans": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Houston-Texans-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Houston-Texans-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Houston-Texans-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Houston-Texans-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Houston-Texans-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Houston-Texans-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Houston-Texans-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Houston-Texans-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Indianapolis-Colts": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Indianapolis-Colts-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Indianapolis-Colts-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Indianapolis-Colts-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Indianapolis-Colts-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Indianapolis-Colts-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Indianapolis-Colts-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Indianapolis-Colts-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Indianapolis-Colts-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Jacksonville-Jaguars": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Jacksonville-Jaguars-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Jacksonville-Jaguars-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Jacksonville-Jaguars-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Jacksonville-Jaguars-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Jacksonville-Jaguars-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Jacksonville-Jaguars-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Jacksonville-Jaguars-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Jacksonville-Jaguars-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Kansas-City-Chiefs": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Kansas-City-Chiefs-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Kansas-City-Chiefs-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Kansas-City-Chiefs-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Kansas-City-Chiefs-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Kansas-City-Chiefs-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Kansas-City-Chiefs-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Kansas-City-Chiefs-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Kansas-City-Chiefs-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Los-Angeles-Chargers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Chargers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Chargers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Chargers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Chargers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Chargers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Chargers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Chargers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Chargers-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Los-Angeles-Rams": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Rams-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Rams-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Rams-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Rams-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Rams-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Rams-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Los-Angeles-Rams-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Los-Angeles-Rams-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Miami-Dolphins": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Miami-Dolphins-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Miami-Dolphins-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Miami-Dolphins-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Miami-Dolphins-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Miami-Dolphins-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Miami-Dolphins-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Miami-Dolphins-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Miami-Dolphins-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Minnesota-Vikings": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Minnesota-Vikings-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Minnesota-Vikings-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Minnesota-Vikings-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Minnesota-Vikings-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Minnesota-Vikings-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Minnesota-Vikings-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Minnesota-Vikings-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Minnesota-Vikings-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "New-England-Patriots": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-England-Patriots-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-England-Patriots-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-England-Patriots-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-England-Patriots-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-England-Patriots-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-England-Patriots-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-England-Patriots-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-England-Patriots-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "New-Orleans-Saints": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-Orleans-Saints-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-Orleans-Saints-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-Orleans-Saints-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-Orleans-Saints-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-Orleans-Saints-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-Orleans-Saints-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-Orleans-Saints-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-Orleans-Saints-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "New-York-Giants": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Giants-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Giants-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Giants-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Giants-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Giants-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Giants-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Giants-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Giants-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "New-York-Jets": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Jets-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Jets-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Jets-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Jets-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Jets-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Jets-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-New-York-Jets-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-New-York-Jets-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Las-Vegas-Raiders": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Las-Vegas-Raiders-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Las-Vegas-Raiders-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Las-Vegas-Raiders-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Las-Vegas-Raiders-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Las-Vegas-Raiders-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Las-Vegas-Raiders-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Las-Vegas-Raiders-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Las-Vegas-Raiders-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Philadelphia-Eagles": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Philadelphia-Eagles-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Philadelphia-Eagles-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Philadelphia-Eagles-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Philadelphia-Eagles-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Philadelphia-Eagles-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Philadelphia-Eagles-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Philadelphia-Eagles-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Philadelphia-Eagles-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Pittsburgh-Steelers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Pittsburgh-Steelers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Pittsburgh-Steelers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Pittsburgh-Steelers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Pittsburgh-Steelers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Pittsburgh-Steelers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Pittsburgh-Steelers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Pittsburgh-Steelers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Pittsburgh-Steelers-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "San-Francisco-49ers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-San-Francisco-49ers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-San-Francisco-49ers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-San-Francisco-49ers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-San-Francisco-49ers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-San-Francisco-49ers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-San-Francisco-49ers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-San-Francisco-49ers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-San-Francisco-49ers-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Seattle-Seahawks": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Seattle-Seahawks-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Seattle-Seahawks-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Seattle-Seahawks-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Seattle-Seahawks-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Seattle-Seahawks-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Seattle-Seahawks-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Seattle-Seahawks-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Seattle-Seahawks-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Tampa-Bay-Buccaneers": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tampa-Bay-Buccaneers-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tennessee-Titans-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Tennessee-Titans": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tennessee-Titans-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tennessee-Titans-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tennessee-Titans-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tennessee-Titans-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tennessee-Titans-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tennessee-Titans-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Tennessee-Titans-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Tennessee-Titans-Schedule-PT-PDF.pdf"
+        }
+    ],
+    "Washington-Redskins": [
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Washington-Redskins-Schedule-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Washington-Redskins-Schedule-ET.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Washington-Redskins-Schedule-CT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Washington-Redskins-Schedule-CT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Washington-Redskins-Schedule-MT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Washington-Redskins-Schedule-MT-PDF.pdf"
+        },
+        {
+            "image": "https://templatetrove.com/images/2021-2022-Printable-Washington-Redskins-Schedule-PT-PNG.png",
+            "pdf": "https://templatetrove.com/Schedules/NFL/2021-2022/2021-2022-Printable-Washington-Redskins-Schedule-MT-PDF.pdf"
+        }
+    ]
+}
